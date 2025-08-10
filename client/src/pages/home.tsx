@@ -65,7 +65,7 @@ export default function Home() {
               </div>
               <div>
                 <h1 className="text-xl font-bold bg-gradient-to-r from-cyber-indigo to-cyber-purple bg-clip-text text-transparent">XI-TKJ-2</h1>
-                <p className="text-sm text-slate-600 dark:text-slate-400">Classroom Layout System</p>
+                <p className="text-sm text-slate-600 dark:text-slate-400">Name Of School: SMKN2 KOTA TERNATE</p>
               </div>
             </div>
             
