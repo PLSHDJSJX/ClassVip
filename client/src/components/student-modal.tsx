@@ -75,7 +75,7 @@ export default function StudentModal({ studentId, onClose, isAdmin }: StudentMod
     <Dialog open onOpenChange={onClose}>
       <DialogContent className="glassmorphism border-0 max-w-md">
         <DialogHeader>
-          <DialogTitle className="sr-only">Profil Siswa</DialogTitle>
+          <DialogTitle className="text-xl font-bold text-center mb-4">Profil Siswa</DialogTitle>
         </DialogHeader>
         
         <div className="text-center space-y-6">

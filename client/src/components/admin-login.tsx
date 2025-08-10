@@ -50,7 +50,7 @@ export default function AdminLogin({ onClose, onSuccess }: AdminLoginProps) {
     <Dialog open onOpenChange={onClose}>
       <DialogContent className="glassmorphism border-0 max-w-md">
         <DialogHeader>
-          <DialogTitle className="sr-only">Login Admin</DialogTitle>
+          <DialogTitle className="text-xl font-bold text-center mb-4">Login Admin</DialogTitle>
         </DialogHeader>
         
         <div className="text-center space-y-6">
